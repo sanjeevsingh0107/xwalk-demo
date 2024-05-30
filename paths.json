@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/firstxwalk-site/:/",
-    "/content/firstxwalk-site/configuration:/.helix/config.json"
+    "/content/firstxwalk-site1/:/",
+    "/content/firstxwalk-site1/configuration:/.helix/config.json"
   ]
 }
