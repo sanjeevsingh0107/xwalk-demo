@@ -137,15 +137,15 @@
           }
         },
         {
-          "title": "Sanjeev Block",
-          "id": "sanjeevblock",
+          "title": "Sanjeev Block 1",
+          "id": "sanjeevblock1",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/franklin/components/block/v1/block/item",
                 "template": {
-                  "name": "Sanjeev Block",
-                  "model": "sanjeevblock"
+                  "name": "Sanjeev Block1",
+                  "model": "sanjeevblock1"
                 }
               }
             }
